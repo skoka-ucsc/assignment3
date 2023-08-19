@@ -19,5 +19,7 @@ The [Dockerfile](https://github.com/skoka-ucsc/assignment3/blob/main/Dockerfile)
 - Run `docker stop s1` to stop the scratch container.
 
 ## Useful links
+- [Docker Overview](https://docs.docker.com/get-started/overview/)
+- [Docker Install Instructions](https://docs.docker.com/engine/install/)
 - [Docker CLI Reference](https://docs.docker.com/engine/reference/commandline/docker/)
 
